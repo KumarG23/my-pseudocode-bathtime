@@ -1,9 +1,11 @@
 # Bath Time Pseudo Code
+
 ![Kierna-Bath](img/IMG_4386.jpeg)
 
 ## Start: BathTime
 
 **Get**:
+
 - BabySoap
 - BabyShampoo
 - BabyTowel
@@ -13,11 +15,12 @@
 
 ## FillTub
 
+- **Start** by turning water on
 - **IF** Water is too warm, use cooler water
 - **Else** use warmer water
 - **Determine** water temperature with elbow || thermometer
 - Add BabySoap to water
-- **End** FillTub
+- **End** FillTub when water level reaches half tub height
 
 ## BatheBaby
 
@@ -40,7 +43,8 @@
 - **End BatheBaby**
 
 ## AfterBath
-**Start** by removing baby from tub
+
+- **Start** by removing baby from tub
 - Wrap baby in towel
 - **While** drying baby with towel sing with SingingVoice
 - **IF** Baby is dry
@@ -50,7 +54,8 @@
 - **End** AfterBath
 
 ## CleanUp
-**Begin** by draining tub
+
+- **Begin** by draining tub
 - **While** tub is draining reorganize toys
 - **IF** tub is drained
 - Rinse Tub
